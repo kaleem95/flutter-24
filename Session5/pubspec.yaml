@@ -88,3 +88,7 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+  assets:
+    - D:/SeniorSteps/Flutter Task/flutter-24/Session5/
+    - lib/main.dart
+
