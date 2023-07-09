@@ -88,3 +88,64 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+  assets:
+    - D:/SeniorSteps/Flutter Task/flutter-24/task1/session1/
+    - ios/
+    - ios/Runner/
+    - ios/Runner/Base.lproj/
+    - ios/Runner/Assets.xcassets/
+    - ios/Runner/Assets.xcassets/AppIcon.appiconset/
+    - ios/Runner/Assets.xcassets/LaunchImage.imageset/
+    - ios/Flutter/
+    - ios/RunnerTests/
+    - ios/Runner.xcodeproj/
+    - ios/Runner.xcodeproj/xcshareddata/
+    - ios/Runner.xcodeproj/xcshareddata/xcschemes/
+    - ios/Runner.xcodeproj/project.xcworkspace/
+    - ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/
+    - ios/Runner.xcworkspace/
+    - ios/Runner.xcworkspace/xcshareddata/
+    - lib/
+    - test/
+    - .idea/
+    - .idea/libraries/
+    - .idea/runConfigurations/
+    - build/
+    - build/52786c824d476ec028a0c46a7a504255/
+    - android/
+    - android/app/
+    - android/app/src/
+    - android/app/src/main/
+    - android/app/src/main/res/
+    - android/app/src/main/res/values/
+    - android/app/src/main/res/drawable/
+    - android/app/src/main/res/mipmap-hdpi/
+    - android/app/src/main/res/mipmap-mdpi/
+    - android/app/src/main/res/drawable-v21/
+    - android/app/src/main/res/mipmap-xhdpi/
+    - android/app/src/main/res/values-night/
+    - android/app/src/main/res/mipmap-xxhdpi/
+    - android/app/src/main/res/mipmap-xxxhdpi/
+    - android/app/src/main/java/
+    - android/app/src/main/java/io/
+    - android/app/src/main/java/io/flutter/
+    - android/app/src/main/java/io/flutter/plugins/
+    - android/app/src/main/kotlin/
+    - android/app/src/main/kotlin/com/
+    - android/app/src/main/kotlin/com/example/
+    - android/app/src/main/kotlin/com/example/session1/
+    - android/app/src/debug/
+    - android/app/src/profile/
+    - android/gradle/
+    - android/gradle/wrapper/
+    - android/.gradle/
+    - android/.gradle/7.5/
+    - android/.gradle/7.5/checksums/
+    - android/.gradle/7.5/fileHashes/
+    - android/.gradle/7.5/fileChanges/
+    - android/.gradle/7.5/vcsMetadata/
+    - android/.gradle/7.5/dependencies-accessors/
+    - android/.gradle/vcs-1/
+    - android/.gradle/buildOutputCleanup/
+    - .dart_tool/
+

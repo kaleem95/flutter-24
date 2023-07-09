@@ -1,5 +1,4 @@
 void main() {
-
   // To Convert From fahrenheit To Celsius
   var fahrenheit = 50;
   var celsius = (fahrenheit - 32) / 1.8;
